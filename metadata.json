@@ -1,0 +1,8 @@
+{
+  "name": "Hiltaxion Ai",
+  "description": "A sleek white and blue robot assistant with voice interaction, real-time object detection, and smart AI reasoning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
